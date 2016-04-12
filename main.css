@@ -123,7 +123,7 @@ section.content:not(.lf) {
     left: 50%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 767px) {
     .right-image, .left-text { position: static; float: none; }
     .right-image { padding-top: 2rem; }
     .right-image img { max-width: 100%; }
